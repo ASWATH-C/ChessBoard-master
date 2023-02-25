@@ -1,3 +1,2 @@
-Game is not longer hosted.
-Just clone the repo and open index.html on your browser.
+Deployment Link : https://aswath-c.github.io/ChessBoard-master/
 
